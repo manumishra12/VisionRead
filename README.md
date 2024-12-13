@@ -3,6 +3,8 @@ Python and Streamlit-based application that leverages the power of **Llama 3.2 V
 
 
 [here](https://github.com/manumishra12/VisionRead/blob/main/screen-capture.mp4)
+
+<img src="https://github.com/manumishra12/VisionRead/blob/main/image.png" alt="Alt text" width="200" height="200">
 ---
 
 ## About Llama 3.2 Vision and Ollama
@@ -15,7 +17,7 @@ Learn more about Llama 3.2 Vision on the [Ollama blog](https://ollama.com/blog/l
 
 <br>
 
-<img src="https://github.com/manumishra12/VisionRead/blob/main/ollama.png" alt="Alt text" width="200" height="200">
+<img src="https://github.com/manumishra12/VisionRead/blob/main/image.png" alt="Alt text" width="200" height="200">
 
 
 ---
