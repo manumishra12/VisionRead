@@ -12,7 +12,10 @@ Python and Streamlit-based application that leverages the power of **Llama 3.2 V
 **Ollama** provides a robust platform to deploy and interact with models like Llama 3.2 Vision. It offers a CLI and libraries for Python and JavaScript, making integration simple and efficient for developers.
 
 Learn more about Llama 3.2 Vision on the [Ollama blog](https://ollama.com/blog/llama3.2-vision).
-![Project Screenshot](assets/screenshot.png)
+
+<br>
+
+<img src="https://github.com/manumishra12/VisionRead/blob/main/ollama.png" alt="Alt text" width="200" height="200">
 
 
 ---
