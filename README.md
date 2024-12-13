@@ -1,10 +1,10 @@
 # VisionRead 👀
-Python and Streamlit-based application that leverages the power of **Llama 3.2 Vision** to perform Optical Character Recognition (OCR). It can extract text from both printed and handwritten images with high accuracy. The app is designed to provide a seamless user experience with advanced features like file history for revisiting uploaded images.
+VisionRead application built using Python (with Streamlit) and React.js to perform Optical Character Recognition (OCR) leveraging the Llama 3.2 Vision model. These applications can extract text from both printed and handwritten images with exceptional accuracy, providing advanced features like file history for revisiting uploaded images.
 <br>
 
 
 ### React Appliction:
-<img src="https://github.com/manumishra12/VisionRead/blob/main/VisionRead.gif" alt="Alt text" width="1000" height="700">
+<img src="https://github.com/manumishra12/VisionRead/blob/main/VisionRead.gif" alt="Alt text" width="1000" height="550">
 
 <br>
 <br>
@@ -48,10 +48,12 @@ Learn more about Llama 3.2 Vision on the [Ollama blog](https://ollama.com/blog/l
 - Python 3.7+
 - Ollama CLI and Llama 3.2 Vision model
 - Streamlit
+- ReactJS
+- MaterialUI
 
 ---
 
-## Installation
+## Installation for Streamlit
 
 1. Clone this repository:
    ```bash
@@ -68,6 +70,57 @@ Learn more about Llama 3.2 Vision on the [Ollama blog](https://ollama.com/blog/l
    ```bash
    ollama pull llama3.2-vision
    ```
+
+---
+
+<br>
+
+## React.js Implementation
+
+### Requirements
+- Node.js and npm
+- Ollama CLI and Llama 3.2 Vision model
+- React.js
+
+
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/ocr-app.git
+   cd ocr-app/react
+   ```
+
+2. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+   
+3. Pull the Llama 3.2 Vision model using Ollama:
+   ```bash
+   ollama pull llama3.2-vision
+   ```
+      
+4. Start the React app:
+   ```bash
+   npm start
+   ```
+
+Upload an image to extract text. The app will display the extracted text in a structured format, and users can navigate through the file history to revisit previous uploads.
+
+Key React.js Features
+
+- Responsive Design: Ensures a seamless user experience across devices.
+- Interactive Dashboard: Provides a dynamic interface for managing uploads and viewing results.
+- API Integration: Leverages the Ollama API to interact with the Llama 3.2 Vision model efficiently.
+- Customization Options: Easily adaptable for additional features like language translation or text-to-speech.
+- Real-time Feedback: Displays processing status to keep users informed.
+
+<br>
+
+<img src="https://github.com/manumishra12/VisionRead/blob/main/image.png" alt="Alt text" width="200" height="200">
+<br>
+<img src="https://github.com/manumishra12/VisionRead/blob/main/image.png" alt="Alt text" width="200" height="200">
 
 ---
 
