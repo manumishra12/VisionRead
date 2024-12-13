@@ -2,7 +2,7 @@
 Python and Streamlit-based application that leverages the power of **Llama 3.2 Vision** to perform Optical Character Recognition (OCR). It can extract text from both printed and handwritten images with high accuracy. The app is designed to provide a seamless user experience with advanced features like file history for revisiting uploaded images.
 
 
-[![Watch the video](https://via.placeholder.com/400x300.png?text=Click+to+Watch)](https://github.com/your-username/your-repo-name/raw/main/path-to-video/video.mp4)
+[![Watch the video](https://via.placeholder.com/400x300.png?text=Click+to+Watch)](https://github.com/manumishra12/VisionRead/blob/main/screen-capture.mp4)
 ---
 
 ## About Llama 3.2 Vision and Ollama
