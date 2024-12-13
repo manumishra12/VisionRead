@@ -4,7 +4,7 @@ Python and Streamlit-based application that leverages the power of **Llama 3.2 V
 
 
 ### React Appliction:
-<img src="https://github.com/manumishra12/VisionRead/blob/main/VisionRead.gif" alt="Alt text" width="1000" height="500">
+<img src="https://github.com/manumishra12/VisionRead/blob/main/VisionRead.gif" alt="Alt text" width="1000" height="700">
 
 <br>
 <br>
