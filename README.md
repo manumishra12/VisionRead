@@ -121,7 +121,8 @@ Key React.js Features
 <img src="https://github.com/manumishra12/VisionRead/blob/main/1.png" alt="Alt text" width="600" height="600">
 <br>
 <img src="https://github.com/manumishra12/VisionRead/blob/main/2.png" alt="Alt text" width="600" height="600">
-
+<br>
+<img src="https://github.com/manumishra12/VisionRead/blob/main/2.png" alt="Alt text" width="600" height="600">
 ---
 
 ## Usage
