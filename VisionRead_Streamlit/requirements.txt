@@ -1,0 +1,6 @@
+streamlit
+llama-index
+Pillow
+numpy
+opencv-python
+easyocr
